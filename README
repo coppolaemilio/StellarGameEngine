@@ -1,25 +1,4 @@
-Copyright (C) 2013 Julian Marchant <onpon4@riseup.net>
+THIS REPOSITORY IS NO LONGER KEPT UP-TO-DATE. The current repository is
+on Savannah:
 
-Copying and distribution of this file, with or without modification,
-are permitted in any medium without royalty provided the copyright
-notice and this notice are preserved.  This file is offered as-is,
-without any warranty.
-
-========================================================================
-
-INSTALLATION
-
-First, make sure you have an appropriate Python version and all
-dependencies.  You can learn what Python version is appropriate and what
-other dependencies are needed from "sge/README".
-
-You can install the SGE with the included setup.py script, e.g.:
-
-    python setup.py install
-
-Alternatively, you can just copy the "sge" directory to the directory of
-your project.
-
-USAGE
-
-See the "doc" folder for detailed documentation on how to use the SGE.
+https://savannah.nongnu.org/projects/stellarengine
